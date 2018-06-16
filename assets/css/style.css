@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    background-image: url("../images/trees-background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+body{
+font-family: 'Eater', cursive;
+font-size: 48px;
+}
+/* h1 {
+    color: whitesmoke;
+} */
+.crystal {
+    cursor: pointer;
+    border: 1px solid;
+    /* padding: 10px; */
+    /* box-shadow: 5px 10px; */
+}
+/* #message {
+    font-size: 30px;
+} */
